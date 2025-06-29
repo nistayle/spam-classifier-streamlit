@@ -6,6 +6,9 @@ A simple machine learning web app to classify spam messages using Streamlit.
 
 This project is a machine learning model built to classify text messages as either **Spam** or **Not Spam**. The app is deployed using **Streamlit Cloud**, providing an easy and interactive web interface for users to test messages in real-time.
 
+## 📸 App Screenshot
+![Spam Classifier App Screenshot](result_spam.png)
+
 ## 🚀 Features
 
 - 📊 Load and process text message dataset
